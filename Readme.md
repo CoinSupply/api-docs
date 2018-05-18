@@ -169,7 +169,7 @@ Cancel an active order.
 }
 ```
 
-###Current open orders
+### Current open orders
 
 GET /api/alpha/openOrders
 
