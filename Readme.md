@@ -1,3 +1,3 @@
 # **Public Rest API**
 
-### API docs migrated to https://api.coinsupply.com/docs/
+### API docs migrated to https://api.coinsupply.com/docs/alpha
